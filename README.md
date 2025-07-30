@@ -1,5 +1,5 @@
 # Cidade onde o curso está sendo realizado 
-Desenvolve-Itabira
+Desenvolve - Itabira
 # Nome da Diciplina
 Progamação Python basíca
 # Número de matricula
